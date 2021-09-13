@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=levohub&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
+# Merhaba, ben Levent! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levohub" alt="cobanov" /> </p>
 
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/levohub)
