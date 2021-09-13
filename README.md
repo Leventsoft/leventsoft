@@ -3,7 +3,7 @@
 # Merhaba, ben Levent! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levohub" alt="cobanov" /> </p>
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/levohub)
+[![](https://img.shields.io/github/followers/levohub?style=social)](https://www.github.com/levohub)
 
 
 
