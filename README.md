@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=levohub&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=leventsoft&show_icons=true">
 
 # Merhaba, ben Levent! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsoft" alt="leventsoft" /> </p>
