@@ -1,9 +1,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=levohub&show_icons=true">
 
 # Merhaba, ben Levent! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=levohub" alt="cobanov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsoft" alt="leventsoft" /> </p>
 
-[![](https://img.shields.io/github/followers/levohub?style=social)](https://www.github.com/levohub)
+[![](https://img.shields.io/github/followers/leventsoft?style=social)](https://www.github.com/leventsoft)
 
 
 
