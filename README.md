@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=leventsoft&show_icons=true">
 
-# Merhaba, ben Levent! 
+# Hello, I am Levent! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsoft" alt="leventsoft" /> </p>
 
 [![](https://img.shields.io/github/followers/leventsoft?style=social)](https://www.github.com/leventsoft)
